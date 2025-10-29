@@ -27,6 +27,16 @@ This app includes **JWT authentication**, **MongoDB integration**, and **modern 
 - Clean UI with responsive design
 
 
+##Demo
+
+<video src="https://raw.githubusercontent.com/usama-ansarii/FastApi-todo-app/blob/main/Screencast%20from%2029-10-2025%2012%3A24%3A14.webm"
+       controls
+       width="600">
+</video>
+
+🎥 [Click here if the video doesn’t load](https://raw.githubusercontent.com/usama-ansarii/FastApi-todo-app/blob/main/Screencast%20from%2029-10-2025%2012%3A24%3A14.webm)
+
+
 
 ## ⚙️ Backend Setup (FastAPI)
 
@@ -37,14 +47,7 @@ python -m venv venv
 source venv/bin/activate  # For Linux/Mac
 venv\Scripts\activate     # For Windows
 
-##Demo
 
-<video src="https://raw.githubusercontent.com/docodeawais/ATM_Simulator/main/ATM_Simulator.webm"
-       controls
-       width="600">
-</video>
-
-🎥 [Click here if the video doesn’t load](https://raw.githubusercontent.com/docodeawais/ATM_Simulator/main/ATM_Simulator.webm)
 
 2️⃣ Install dependencies
 pip install -r requirements.txt
