@@ -28,13 +28,9 @@ This app includes **JWT authentication**, **MongoDB integration**, and **modern 
 
 
 ##Demo
+<video src="https://raw.githubusercontent.com/usama-ansarii/FastApi-todo-app/main/Fastapi%20Todo%20Demo.webm" controls width="600"></video>
 
-<video src="https://raw.githubusercontent.com/usama-ansarii/FastApi-todo-app/blob/main/Screencast%20from%2029-10-2025%2012%3A24%3A14.webm"
-       controls
-       width="600">
-</video>
-
-🎥 [Click here if the video doesn’t load](https://raw.githubusercontent.com/usama-ansarii/FastApi-todo-app/blob/main/Screencast%20from%2029-10-2025%2012%3A24%3A14.webm)
+[Click here if the video doesn’t load](https://raw.githubusercontent.com/usama-ansarii/FastApi-todo-app/main/Fastapi%20Todo%20Demo.webm)
 
 
 
